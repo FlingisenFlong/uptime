@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blyat.glowberry.xyz.ico",
     "slug": "blyat",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "3.50%",
+    "uptimeDay": "3.50%",
+    "uptimeWeek": "3.50%",
+    "uptimeMonth": "3.50%",
+    "uptimeYear": "3.50%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   }
 ]
