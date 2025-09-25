@@ -22,18 +22,19 @@
     "url": "https://online-servers-api.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/online-servers-api.onrender.com.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.86%",
+    "status": "down",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 359,
     "timeDay": 552,
     "timeWeek": 417,
     "timeMonth": 359,
     "timeYear": 359,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-23": 27
     }
   }
