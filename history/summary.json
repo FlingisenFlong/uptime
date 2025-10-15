@@ -22,19 +22,19 @@
     "url": "https://api.flingisenflong.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.flingisenflong.com.ico",
     "slug": "flingisen-flong-api-player-api",
-    "status": "down",
-    "uptime": "97.60%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
-    "time": 459,
-    "timeDay": 459,
-    "timeWeek": 459,
-    "timeMonth": 459,
-    "timeYear": 459,
+    "status": "up",
+    "uptime": "96.84%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "96.84%",
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2025-10-15": 31
+      "2025-10-15": 41
     }
   }
 ]
