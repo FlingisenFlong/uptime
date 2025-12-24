@@ -24,7 +24,7 @@
     "url": "https://api.flingisenflong.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.flingisenflong.com.ico",
     "slug": "flingisen-flong-api-player-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
     "uptimeDay": "96.84%",
     "uptimeWeek": "97.06%",
@@ -36,6 +36,7 @@
     "timeMonth": 4377,
     "timeYear": 3309,
     "dailyMinutesDown": {
+      "2025-12-24": 0,
       "2025-12-23": 45,
       "2025-12-21": 125,
       "2025-12-20": 27,
